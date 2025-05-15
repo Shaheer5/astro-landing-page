@@ -13,21 +13,21 @@ This project is a customizable landing page template for mobile apps, built with
 Ensure you have the following installed:
 
 - Node.js (v20 or higher recommended)
-- pnpm
+- npm
 
 ## Installation
 ```bash
-pnpm i
+npm i
 ```
 
 ## Local Development
 ```bash
-pnpm dev
+npm dev
 ```
 
 ## Building for Production
 ```bash
-pnpm build
+npm build
 ```
 
 This will generate a dist folder containing the optimized production build.
